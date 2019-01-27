@@ -24,7 +24,7 @@ public class Tc_delete {
 		driver.findElement(By.xpath("//table[@id='Table_01']/tbody/tr/td[2]/table/tbody/tr[4]/td/input")).click();
 		Thread.sleep(3000);
 		driver.switchTo().frame(0);
-		
+		//comm
 		Select drpdwn=new Select(driver.findElement(By.name("loc_code")));
 		drpdwn.selectByIndex(1);
 		
