@@ -43,7 +43,9 @@ public class Tc_delete {
 		for(int i=0;i<tbody.size()-2;i++) {
 			tbody.get(i).click();*/
 			
-			
+       /* WebElement oCheckBox = driver.findElement(By.cssSelector("input[value='0002']"));
+        oCheckBox.click();	*/
+        
 			//driver.findElement(By.xpath("//*[@id='standardView']/div[3]/div[1]/input[2]")).click();
 			//System.out.println("deleted successfully");
 			
