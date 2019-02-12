@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/hibernate-core-4.1.1.final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/hibernate/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/ojdbc/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/meena-jars/ojdbc/ojdbc14-10g.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
