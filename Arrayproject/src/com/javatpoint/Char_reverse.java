@@ -4,7 +4,7 @@ public class Char_reverse {
 
 	public static void main(String[] args) {
 
-		/*char[] letters1 = {'e', 'v', 'o', 'l', '4'};
+		char[] letters1 = {'e', 'v', 'o', 'l', '4'};
 		int i = letters1.length - 1, j = 0;
 		char[] let = new char[letters1.length];
 		while(i >= 0){
@@ -14,8 +14,8 @@ public class Char_reverse {
 		}
 		for (char c : let){
 		     System.out.print(c);
-}*/
-		 String[] a = { "Afyf", "Zgfj", "bgftyf", "cch"  };
+}
+		/* String[] a = { "Afyf", "Zgfj", "bgftyf", "cch"  };
 		 
 		         new Char_reverse().rev(a);
 		 
@@ -43,7 +43,7 @@ public class Char_reverse {
 		
 		            array[array.length - i - 1] = temp;
 
-		         }
+		         }*/
 
 	}	}
 
